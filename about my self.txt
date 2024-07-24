@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hans' Roleplaying Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .profile {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 400px;
+        }
+        .profile img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+        }
+        .profile h1 {
+            margin: 0;
+            font-size: 24px;
+            color: #333;
+        }
+        .profile p {
+            margin: 10px 0;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <img src="profile-pic.jpg" alt="Profile Picture">
+        <h1>Hans</h1>
+        <p><strong>Pronouns:</strong> He/Him</p>
+        <p><strong>Interests:</strong> Cats and Dogs</p>
+        <p><strong>Note:</strong> Dump account, selective acceptance. 21+, mdni</p>
+        <p><strong>Languages:</strong> ENG / Fil</p>
+        <p><strong>Muse:</strong> I change my muse (dp) as and when I want to.</p>
+        <p><strong>Games I play:</strong> Wildrift</p>
+    </div>
+</body>
+</html>
