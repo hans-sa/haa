@@ -48,7 +48,7 @@
         <p><strong>Interests:</strong> Cats and Dogs</p>
         <p><strong>Note:</strong> Dump account, selective acceptance. 21+, mdni</p>
         <p><strong>Languages:</strong> ENG / Fil</p>
-        <p><strong>Muse:</strong> I change my muse (dp) as and when I want to.</p>
+        <p><strong>Muse:</strong> I change my muse as and when I want to.</p>
         <p><strong>Games I play:</strong> Wildrift</p>
     </div>
 </body>
